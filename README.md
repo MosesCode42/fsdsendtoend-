@@ -8,7 +8,11 @@ git init
 '''
 
 '''
-git add abc.txt
+git add 
+'''
+
+'''
+abc.txt
 '''
 
 '''
