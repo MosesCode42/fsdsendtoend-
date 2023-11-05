@@ -28,4 +28,4 @@ python setup.py install
 '''
 
 #another way to install you can mention -e . in your 
-#requirements.txt file and run pip install -r requirements.txt
+requirements.txt file and run pip install -r requirements.txt
